@@ -1,4 +1,4 @@
-# Resumo de _Startup de $100_ de Chris Guillebeau
+# Resumo do livro _Startup de $100_ de Chris Guillebeau
 
 _Startup de $100_, de Chris Guillebeau, é um guia prático para iniciar um negócio com investimento mínimo, transformando paixões em lucros. Baseado em entrevistas com mais de 1.500 empreendedores que começaram com menos de $100 e geram mais de $50.000 anuais, o livro oferece estratégias acessíveis para microempreendedorismo. Abaixo estão os pontos principais:
 
